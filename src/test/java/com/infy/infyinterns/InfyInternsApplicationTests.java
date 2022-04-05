@@ -18,7 +18,7 @@ import com.infy.infyinterns.repository.MentorRepository;
 import com.infy.infyinterns.service.ProjectAllocationService;
 import com.infy.infyinterns.service.ProjectAllocationServiceImpl;
 import com.mysql.cj.x.protobuf.MysqlxDatatypes.Any;
-
+//this is just for test, new project 
 @SpringBootTest
 public class InfyInternsApplicationTests {
 
